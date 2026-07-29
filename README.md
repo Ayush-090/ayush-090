@@ -309,24 +309,3 @@ Email
 </a>
 
 </p>
-
----
-
-<div align="center">
-
-# ⚡ Build. Learn. Ship. Repeat.
-
-*"The future belongs to builders."*
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=185FA5&height=120&section=header&text=Ayush%20Bhardwaj&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%C2%B7%20Flutter%20%C2%B7%20AI%2FML%20%C2%B7%20IT%20Engineering%20Student&descAlignY=58&descSize=14&descColor=B5D4F4" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=185FA5&center=true&vCenter=true&width=500&lines=Building+things+that+matter+%F0%9F%9A%80;Full-Stack+%7C+Flutter+%7C+AI%2FML+Developer;Open+to+Internship+Opportunities!)](https://git.io/typing-svg)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushbhardwaj-bb9bba285)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayush-090)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ayushhh._.094)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushbhardwaj942006@gmail.com)
-
-</div>
